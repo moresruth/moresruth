@@ -2,7 +2,7 @@
 - 🌱 I’m currently learning JavaScript
 - ✅ Available for work and collaborations
 - 📫 How to reach me: moresruthantonette@gmail.com
--
+
 
 <!---
 moresruth/moresruth is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
