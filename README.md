@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @moresruth aspiring Front-End Developer.
-- 🌱 I’m currently learning React JS
+- 🌱 I’m currently learning JavaScript
 - ✅ Available for work and collaborations
 - 📫 How to reach me: moresruthantonette@gmail.com
 
