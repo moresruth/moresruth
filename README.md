@@ -4,7 +4,7 @@
 
 <h3> 👩‍💻 &nbsp;About Me </h3>
 
-- 🌱 &nbsp; ; Exploring new technologies and I'm constantly learning new languages and creating my own personal projects..
+- 🌱 &nbsp; Exploring new technologies and I'm constantly learning new languages and creating my own personal projects..
 - 🎓 &nbsp; Studying Computer Science at Laguna State Polytechnic University.
 - ✍️ &nbsp; I’m looking forward to collaborate on any Open Source project which I consider interesting or useful.
 
