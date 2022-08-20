@@ -47,8 +47,8 @@
 
 <p align="center">
 <a href="https://www.ruthantonette.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.ruthantonette.com-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/ruthantonettemores/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-RuthAntonette%20Mores%20Singh-blue?style=flat-square&logo=linkedin"></a>
-<a href="mailto:moresruthantonette@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
+<a href="https://www.linkedin.com/in/ruthantonettemores/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Ruth%20Antonette%20Mores-blue?style=flat-square&logo=linkedin"></a>
+<a href="mailto:moresruthantonette@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-moresruthantonette@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
 ⭐️ From [Ruth Mores](https://github.com/moresruth)
