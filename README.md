@@ -6,7 +6,6 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Computer Science at Laguna State Polytechnic University.
-- 💼 &nbsp; Working as a Business Development Associate at VirtuBox InfoTech Private Limited.
 - 🌱 &nbsp; I'm constantly learning new languages and creating my own personal projects. 
 - ✍️ &nbsp; I’m looking forward to collaborate on any Open Source project which I consider interesting or useful.
 
@@ -47,10 +46,9 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.adityavsingh.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.adityavsingh.com-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/AVS1508/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/adityavs_/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-adityavs__-blue?style=flat-square&logo=instagram"></a>
-<a href="mailto:avsingh@umass.edu"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
+<a href="https://www.ruthantonette.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.ruthantonette.com-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://www.linkedin.com/in/ruthantonettemores/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-RuthAntonette%20Mores%20Singh-blue?style=flat-square&logo=linkedin"></a>
+<a href="mailto:moresruthantonette@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
 </p>
 
-⭐️ From [AVS1508](https://github.com/AVS1508)
+⭐️ From [Ruth Mores](https://github.com/moresruth)
